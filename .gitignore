@@ -1,0 +1,8 @@
+JLCPCB*
+*.mp3
+*.mov
+production
+*.mp4
+*.log
+.DS_Store
+*backups
