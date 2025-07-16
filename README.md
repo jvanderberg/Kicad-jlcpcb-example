@@ -1,6 +1,6 @@
 # JLCPCB KiCad Integration Example
 
-This repository is a small 5V DC-DC power supply, created in KiCad and designed to integrate with JLCPCB.
+This repository is a two layer 5V DC-DC power supply, created in KiCad and designed to integrate with JLCPCB. The power supply was just a test board I created, it should not be used for anything meaningful, but you could use this project as a template for new projects or just to test submitting to JCLPCB, and just delete the board unordered when you are done.
 
 ## Installing Libraries/Plugins
 
