@@ -6,3 +6,6 @@ production
 *.log
 .DS_Store
 *backups
+*auto_saved*
+*auto_save*
+*.lck
