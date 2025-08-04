@@ -10,7 +10,7 @@ To get your local KiCad installation setup properly, open the Plugin and Content
 
 2. Install the 'impartGUI' Plugin from the KiCad official repository. Yes, that likely should be 'import GUI', but it's not.
 
-3. In the Plugin and Content Manager, click the 'Manage...' button and add a new Repository with the URL: https://raw.githubusercontent.com/CDFER/cd_fer-kicad-repository/main/repository.js
+3. In the Plugin and Content Manager, click the 'Manage...' button and add a new Repository with the URL: https://raw.githubusercontent.com/CDFER/cd_fer-kicad-repository/main/repository.json
 
 4. Select 'CD_FER's KiCad repository' from the Repository drop down, select the 'Library' tab below, and then install 'JLCPCB KiCad Library'. Then 'Apply Changes'.
 
